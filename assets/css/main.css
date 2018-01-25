@@ -1,0 +1,85 @@
+@import "reset.css";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  padding: 20px;
+  margin: 50px;
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.ss{
+  width: 100%;
+  height: 40px;
+  background-color: #565656;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 0px;
+  margin-top: 20px;
+  padding-top: 30px;
+  margin-bottom: 40px;
+}
+
+body div ul li{
+  display: inline;
+  padding-left: 30px;
+  padding-right: 30px;
+  color: #ffffff;
+}
+
+article ul li{
+  display: block;
+  padding-left: 30px;
+  margin-bottom: -3px;
+  border: 1px solid silver;
+  padding-right: 70px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  float: both;
+  margin-right: 90px;
+}
+
+.img{
+  width: 60%;
+  height: 300px;
+  float: right;
+}
+
+.text{
+padding: 20px;
+align:right;
+float: both;
+margin-top: 30px;
+margin-left: 600px;
+margin-right: 150px;
+margin-bottom: 120px;
+}
+article{
+  margin-left: 20px;
+  width: 30%;
+  height: 300px;
+  float: left;
+}
+.clear{
+  clear: both;
+}
+body div p{
+font-family: monospace;
+font-size: 15px;
+}
+
+footer{
+  width: 100%;
+  height: 30px;
+  background-color: #565656;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 20px;
+  padding-top: 30px;
+  margin-bottom: 40px;
+}
